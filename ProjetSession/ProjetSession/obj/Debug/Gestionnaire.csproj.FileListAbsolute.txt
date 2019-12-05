@@ -1,0 +1,15 @@
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\bin\Debug\ProjetSession.exe.config
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\bin\Debug\ProjetSession.exe
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\bin\Debug\ProjetSession.pdb
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\Gestionnaire.csprojAssemblyReference.cache
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\App.g.cs
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\ProjetSession_MarkupCompile.cache
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\ProjetSession_MarkupCompile.lref
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\ProjetSession.g.resources
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\ProjetSession.Properties.Resources.resources
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\Gestionnaire.csproj.GenerateResource.cache
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\Gestionnaire.csproj.CoreCompileInputs.cache
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\ProjetSession.exe
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\ProjetSession.pdb
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\Views\MainWindow.g.cs
+C:\Users\loran\Desktop\ProjetSessionClaudia\ProjetSession\ProjetSession\obj\Debug\Views\MainWindow.baml
